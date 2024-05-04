@@ -1,0 +1,3 @@
+/home/dma/cpp_examples/boost/build/CMakeFiles/bo.dir
+/home/dma/cpp_examples/boost/build/CMakeFiles/edit_cache.dir
+/home/dma/cpp_examples/boost/build/CMakeFiles/rebuild_cache.dir

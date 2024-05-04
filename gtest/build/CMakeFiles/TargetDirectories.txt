@@ -1,0 +1,3 @@
+/home/dma/cpp_examples/gtest/build/CMakeFiles/runTests.dir
+/home/dma/cpp_examples/gtest/build/CMakeFiles/edit_cache.dir
+/home/dma/cpp_examples/gtest/build/CMakeFiles/rebuild_cache.dir
